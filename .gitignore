@@ -1,0 +1,6 @@
+# Ignore Cashe
+__pychache__
+.pytest-caches
+
+# Ignore Virtual Environment
+venv
